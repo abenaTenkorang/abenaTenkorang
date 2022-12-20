@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **full-stack software engineering at Microverse, Vanilla Javascript and React Native**
 
 - 💬 Ask me about **Html, CSS, JavaScript, React**
-- - 📫 Reach me on: **abenagy16@gmail.com**
+- 📫 Reach me on: **abenagy16@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
