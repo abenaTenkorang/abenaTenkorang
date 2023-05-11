@@ -3,9 +3,9 @@
 <h3 align="center">An aspiring full-stack developer from Ghana</h3>
 <img align="right"width="40%" height="200px" alt="Coding" width="400" src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif">
 
-- 🌱 I’m currently learning **full-stack software engineering at Microverse, Vanilla Javascript and React Native**
+- 🌱 I’m full-stack software engineering whose goal is to help create softwares and apps to simplify the everyday life.
 
-- 💬 Ask me about **Html, CSS, JavaScript, React**
+- 💬 Ask me about **Html, CSS, JavaScript, React, Redux, Ruby**
 - 📫 Reach me on: **abenagy16@gmail.com**
 
 
